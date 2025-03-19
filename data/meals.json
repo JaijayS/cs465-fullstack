@@ -1,0 +1,32 @@
+[
+    {
+      "name": "SeaFood Special",
+      "link": "meals.html",
+      "image": "images/seafoods.jpg",
+      "alt": "SeaFood Special",
+      "height": 169,
+      "width": 780,
+      "overview": "Fried Salmon Special",
+      "description": "I'm a product overview. Here you can write more information about your product. Buyers like to know ..."
+    },
+    {
+      "name": "Sumptuous Desserts",
+      "link": "meals.html",
+      "image": "images/desserts.jpg",
+      "alt": "Sumptuous Desserts",
+      "height": 169,
+      "width": 780,
+      "overview": "Choco Ice Cream Sandwich",
+      "description": "I'm a product overview. Here you can write more information about your product. Buyers like to know ..."
+    },
+    {
+      "name": "Buffet",
+      "link": "meals.html",
+      "image": "images/buffet.jpg",
+      "alt": "Buffet",
+      "height": 169,
+      "width": 780,
+      "overview": "Mixed Buffet",
+      "description": "I'm a product overview. Here you can write more information about your product. Buyers like to know ..."
+    }
+  ]

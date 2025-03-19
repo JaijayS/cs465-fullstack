@@ -1,0 +1,31 @@
+{
+    "sidebar": {
+      "latestNews": [
+        {"title": "2023 Best Beaches Contest Winners"},
+        {"title": "Top 10 Diving Spots"},
+        {"title": "Fishing ban to be implemented this year"},
+        {"title": "Lifeguard saves child from drowning"}
+      ],
+      "vacationTips": [
+        {"title": "What to bring on the beach?"},
+        {"title": "Planning Fun Activities"},
+        {"title": "Diving Checklist"},
+        {"title": "First Aid"},
+        {"title": "How to Build a Sand Castle?"},
+        {"title": "Tanning Tips"}
+      ]
+    },
+    "mainArticle": {
+      "title": "Experience Kayaking!",
+      "image": "images/kayak.jpg",
+      "subtitle": "Discover the thrill of kayaking.",
+      "date": "April 03, 2023",
+      "author": "Juan De La Cruz",
+      "content": [
+        "Sed et augue lorem. In sit amet placerat arcu...",
+        "Cras dui sapien, feugiat vitae tristique ut...",
+        "Phasellus viverra fringilla lacus..."
+      ]
+    }
+  }
+  

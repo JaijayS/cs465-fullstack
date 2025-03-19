@@ -17,6 +17,8 @@ var handlebars = require('hbs');
 var app = express();
 app.set('views', path.join(__dirname, 'app_server', 'views'));
 
+
+
 // Middleware setup
 app.use(logger('dev'));
 app.use(express.json());
